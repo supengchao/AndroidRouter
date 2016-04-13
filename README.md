@@ -1,6 +1,4 @@
 # ActivityRouter
-
-
 ### [English README.md here](https://github.com/mzule/ActivityRouter/blob/master/README-en.md)
 
 
